@@ -186,7 +186,7 @@
    (octave . t)
    ))
 ;;; plantuml configuration
-(setq org-plantuml-jar-path "/usr/share/emacs/24.5/lisp/contrib/scripts/plantuml.jar")
+(setq org-plantuml-jar-path "/home/john/.emacs.d/JAR/plantuml.jar")
 
 ;;; tabbar-ruler
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/john-elpa/"))
